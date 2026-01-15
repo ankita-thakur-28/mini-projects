@@ -1,1 +1,1 @@
-!(Stone-paper-scissors)(stone-paper-secissor.png)
+![Stone-paper-scissors][stone-paper-secissor.png]
