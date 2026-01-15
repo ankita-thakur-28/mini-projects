@@ -1,1 +1,1 @@
-![Game][stone-paper-secissor.png]
+![Game](stone-paper-secissor.png)
